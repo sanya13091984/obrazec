@@ -1,8 +1,8 @@
 public class App {
 
     public static void main(String[] args) {
-        System.out.println("lol");
-        System.out.println("suka");
+        System.out.println("skoro");
+        System.out.println("leto");
 
 
     }
