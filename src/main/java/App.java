@@ -4,7 +4,7 @@ public class App {
 
 
         System.out.println("sex viski");
-
+//мастер
 
    }
 }
