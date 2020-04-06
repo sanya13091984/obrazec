@@ -4,5 +4,5 @@ public class Cor extends Animals {
 //учим
 //привет город
 // омск
-//тюмень
+//тюмень,москва
 }
